@@ -133,8 +133,6 @@ struct ovs_vapname_cloudvifname_map  cloud_vif_map[] = {
     {"bhaul-ap-50",  "mesh_backhaul_5g"},
     {"home-ap-24",   "private_ssid_2g"},
     {"home-ap-50",   "private_ssid_5g"},
-    {"bhaul-sta-24", "mesh_sta_2g"},
-    {"bhaul-sta-50", "mesh_sta_5g"},
 };
 #else
 struct ovs_vapname_cloudvifname_map  cloud_vif_map[] = {
